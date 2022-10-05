@@ -7,7 +7,7 @@
 	 3. https://www.linkedin.com/in/matin-imam-61157020a/  
 	 4. https://replit.com/@MatinImam
 	 5. https://discord.com/channels/@matin#8782
-	 6. [![@matin77's Holopin board](https://holopin.io/api/user/board?user=matin77)]
+	 6. https://holopin.io/@matin77
               
              
 <!---
