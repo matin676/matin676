@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matin676
-- 👀 I’m interested in UI/UX Designing
+- 👀 I’m interested in FullStack Development & Game Development
 - 🌱 I’m currently working on some awesome projects
 - 📫 You can connect with me on:-					  														
  	 1. https://g.dev/matin							
