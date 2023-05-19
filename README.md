@@ -20,9 +20,3 @@ Aspiring full stack web developer dedicated to designing scalable web applicatio
 
 ---
 [![](https://visitcount.itsvg.in/api?id=matin676&icon=2&color=7)](https://visitcount.itsvg.in)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=matin676&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=matin676&icon=2&color=7)](https://visitcount.itsvg.in)
