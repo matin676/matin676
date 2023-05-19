@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning ReactJs
+Aspiring full stack web developer dedicated to designing scalable web applications and a strong foundation in modern web development technologies.
 
 
 ## 🌐 Socials:
