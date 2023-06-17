@@ -16,7 +16,7 @@ Aspiring full stack web developer dedicated to designing scalable web applicatio
 ![](https://github-profile-trophy.vercel.app/?username=matin676&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🎗️ Holopin Badges
-[![An image of @matin676's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matin676)]](https://holopin.io/@matin676&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![An image of @matin676's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matin676)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=matin676&limit=5&theme=monokai&combine_all_yearly_contributions=true)
