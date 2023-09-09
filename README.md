@@ -1,6 +1,7 @@
 # 💫 About Me:
-Aspiring full stack web developer dedicated to designing scalable web applications and a strong foundation in modern web development technologies.
+👋 Hello there! I'm an aspiring full-stack web developer with a relentless passion for crafting scalable web applications. My journey in the world of web development is driven by a deep commitment to stay at the forefront of modern web technologies and deliver exceptional digital experiences.
 
+🛠️ My toolkit includes a diverse set of skills and tools, from front-end technologies like HTML5, CSS3, and JavaScript, to back-end frameworks like Node.js and PhP. I'm well-versed in database management, API integration, and cloud services, making me capable of handling the entire development stack.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/matin.imam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matin-imam-61157020a) 
